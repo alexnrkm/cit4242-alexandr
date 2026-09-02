@@ -33,3 +33,10 @@ build/
 .vscode/
 
 target/
+
+
+### Python ###
+__pycache__/
+*.pyc
+.venv/
+venv/
